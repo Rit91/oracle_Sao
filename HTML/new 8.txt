@@ -1,0 +1,6 @@
+{
+"last_name": "ritesh",
+"first_name": "singh",
+    "cel": "555 6987",
+    "personal_email": "bo@whitehouse.com"
+}
